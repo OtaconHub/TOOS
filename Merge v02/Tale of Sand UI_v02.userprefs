@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Gotomain.cs">
+    <Files>
+      <File FileName="Assets\scripts\backbutton.cs" Line="14" Column="1" />
+      <File FileName="Assets\scripts\options.cs" Line="22" Column="3" />
+      <File FileName="Assets\scripts\backbutton2.cs" Line="7" Column="3" />
+      <File FileName="Assets\scripts\options2.cs" Line="25" Column="18" />
+      <File FileName="Assets\scripts\click.cs" Line="20" Column="3" />
+      <File FileName="Assets\scripts\back3.cs" Line="12" Column="2" />
+      <File FileName="Assets\scripts\upgrademenu.cs" Line="11" Column="19" />
+      <File FileName="Assets\scripts\pausemenu.cs" Line="10" Column="2" />
+      <File FileName="Assets\scripts\Gotomain.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

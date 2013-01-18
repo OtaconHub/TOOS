@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\upgrademenu.cs">
+    <Files>
+      <File FileName="Assets\Game 3 - Marble game\Scripts\Sticky.cs" Line="42" Column="2" />
+      <File FileName="Assets\scripts\Player.js" Line="57" Column="1" />
+      <File FileName="Assets\Game 3 - Marble game\Scripts\MarbleControl.cs" Line="19" Column="13" />
+      <File FileName="Assets\Game 3 - Marble game\Scripts\CoinGameManager.cs" Line="8" Column="11" />
+      <File FileName="Assets\Game 3 - Marble game\Scripts\grainscounter.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\upgrademenu.cs" Line="13" Column="1" />
+      <File FileName="Assets\scripts\pausemenu.cs" Line="28" Column="1" />
+      <File FileName="Assets\ShaderBox\Script\Activator.cs" Line="18" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

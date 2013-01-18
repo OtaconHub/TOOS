@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game 3 - Marble game\Scripts\WalkableWall.cs">
+    <Files>
+      <File FileName="Assets\scripts\click.cs" Line="24" Column="1" />
+      <File FileName="Assets\scripts\backbutton2.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\clickhere.cs" Line="19" Column="26" />
+      <File FileName="Assets\scripts\newgame.cs" Line="24" Column="1" />
+      <File FileName="Assets\scripts\options.cs" Line="26" Column="1" />
+      <File FileName="Assets\scripts\select.cs" Line="24" Column="1" />
+      <File FileName="Assets\scripts\Player.js" Line="119" Column="24" />
+      <File FileName="Assets\scripts\upgrademenu.cs" Line="12" Column="27" />
+      <File FileName="Assets\scripts\pausemenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\backbutton.cs" Line="21" Column="3" />
+      <File FileName="Assets\scripts\Gotomain.cs" Line="23" Column="1" />
+      <File FileName="Assets\scripts\options2.cs" Line="19" Column="26" />
+      <File FileName="Assets\scripts\resume.cs" Line="29" Column="1" />
+      <File FileName="Assets\scripts\back3.cs" Line="17" Column="27" />
+      <File FileName="Assets\Game 3 - Marble game\Scripts\WalkableWall.cs" Line="21" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

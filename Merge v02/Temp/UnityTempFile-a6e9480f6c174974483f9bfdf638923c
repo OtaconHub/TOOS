@@ -1,0 +1,83 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:D:/Unity4New/Unity/Editor/Data/Managed/UnityEngine.dll
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll
+-r:D:/Unity4New/Unity/Editor/Data/Managed/UnityEditor.dll
+-define:UNITY_STANDALONE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_NETWORK
+-define:ENABLE_MONO
+-define:ENABLE_PHYSICS
+-define:ENABLE_TERRAIN
+-define:ENABLE_CACHING
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:ENABLE_CLOTH
+-define:ENABLE_MOVIES
+-define:ENABLE_AUDIO
+-define:ENABLE_WWW
+-define:ENABLE_SHADOWS
+-define:ENABLE_DUCK_TYPING
+-define:UNITY_4_0_0
+-define:UNITY_4_0
+-define:UNITY_STANDALONE_WIN
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_TEAM_LICENSE
+"Assets/Game 3 - Marble game/Scripts/Air.cs"
+"Assets/Game 3 - Marble game/Scripts/AirPower.cs"
+"Assets/Game 3 - Marble game/Scripts/Coin.cs"
+"Assets/Game 3 - Marble game/Scripts/CoinGameManager.cs"
+"Assets/Game 3 - Marble game/Scripts/ElectiPower.cs"
+"Assets/Game 3 - Marble game/Scripts/Electri.cs"
+"Assets/Game 3 - Marble game/Scripts/Fire.cs"
+"Assets/Game 3 - Marble game/Scripts/FirePower.cs"
+"Assets/Game 3 - Marble game/Scripts/GameoverTrigger.cs"
+"Assets/Game 3 - Marble game/Scripts/HUD.cs"
+"Assets/Game 3 - Marble game/Scripts/MarbleCamera.cs"
+"Assets/Game 3 - Marble game/Scripts/MarbleControl.cs"
+"Assets/Game 3 - Marble game/Scripts/MarbleGameManager.cs"
+"Assets/Game 3 - Marble game/Scripts/PickUp.cs"
+"Assets/Game 3 - Marble game/Scripts/Robot.cs"
+"Assets/Game 3 - Marble game/Scripts/Sticky.cs"
+"Assets/Game 3 - Marble game/Scripts/StickyKMM.cs"
+"Assets/Game 3 - Marble game/Scripts/StickyPower.cs"
+"Assets/Game 3 - Marble game/Scripts/WalkableWall.cs"
+"Assets/Game 3 - Marble game/Scripts/Water.cs"
+"Assets/Game 3 - Marble game/Scripts/WaterPower.cs"
+"Assets/Game 3 - Marble game/Scripts/clickany.cs"
+"Assets/Game 3 - Marble game/Scripts/clickany1.cs"
+"Assets/Game 3 - Marble game/Scripts/grainscounter.cs"
+Assets/MainMenu/MainMenuScript.cs
+Assets/ShaderBox/Script/Activator.cs
+Assets/ShaderBox/Script/ControllerSwitcher.cs
+"Assets/ShaderBox/ShaderBox/Probe Light Scripts/ProbeCharacterEnvironment.cs"
+"Assets/ShaderBox/ShaderBox/Probe Light Scripts/ProbeManagerEnvironment.cs"
+"Assets/ShaderBox/ShaderBox/Probe Light Scripts/ProbesEnvironment.cs"
+"Assets/ShaderBox/Standard Assets/Image Effects (Pro Only)/NoiseEffect.cs"
+Assets/gameobject.cs
+Assets/scripts/BackgroundMusic.cs
+Assets/scripts/Gotomain.cs
+Assets/scripts/OFF.cs
+Assets/scripts/ON.cs
+Assets/scripts/SandAnimation.cs
+Assets/scripts/back3.cs
+Assets/scripts/backbutton.cs
+Assets/scripts/backbutton2.cs
+Assets/scripts/click.cs
+Assets/scripts/clickhere.cs
+Assets/scripts/gotomainmenu.cs
+Assets/scripts/newgame.cs
+Assets/scripts/options.cs
+Assets/scripts/options2.cs
+Assets/scripts/pause.cs
+Assets/scripts/pausemenu.cs
+Assets/scripts/resume.cs
+Assets/scripts/select.cs
+Assets/scripts/upgrademenu.cs

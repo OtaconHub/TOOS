@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{26381085-1B6E-2B45-2BE7-24DBF818B544}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_STANDALONE;ENABLE_MICROPHONE;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;ENABLE_AUDIO_FMOD;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PHYSICS;ENABLE_TERRAIN;ENABLE_CACHING;ENABLE_SUBSTANCE;ENABLE_GENERICS;ENABLE_CLOTH;ENABLE_MOVIES;ENABLE_AUDIO;ENABLE_WWW;ENABLE_SHADOWS;ENABLE_DUCK_TYPING;UNITY_4_0_0;UNITY_4_0;UNITY_STANDALONE_WIN;DEVELOPMENT_BUILD;ENABLE_PROFILER;UNITY_EDITOR;UNITY_TEAM_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>D:/Unity4New/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>D:/Unity4New/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\Air.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\AirPower.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\Coin.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\CoinGameManager.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\ElectiPower.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\Electri.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\Fire.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\FirePower.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\GameoverTrigger.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\HUD.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\MarbleCamera.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\MarbleControl.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\MarbleGameManager.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\PickUp.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\Robot.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\Sticky.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\StickyKMM.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\StickyPower.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\WalkableWall.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\Water.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\WaterPower.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\clickany.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\clickany1.cs" />
+     <Compile Include="Assets\Game 3 - Marble game\Scripts\grainscounter.cs" />
+     <Compile Include="Assets\MainMenu\MainMenuScript.cs" />
+     <Compile Include="Assets\gameobject.cs" />
+     <Compile Include="Assets\scripts\BackgroundMusic.cs" />
+     <Compile Include="Assets\scripts\Gotomain.cs" />
+     <Compile Include="Assets\scripts\OFF.cs" />
+     <Compile Include="Assets\scripts\ON.cs" />
+     <Compile Include="Assets\scripts\SandAnimation.cs" />
+     <Compile Include="Assets\scripts\back3.cs" />
+     <Compile Include="Assets\scripts\backbutton.cs" />
+     <Compile Include="Assets\scripts\backbutton2.cs" />
+     <Compile Include="Assets\scripts\click.cs" />
+     <Compile Include="Assets\scripts\clickhere.cs" />
+     <Compile Include="Assets\scripts\gotomainmenu.cs" />
+     <Compile Include="Assets\scripts\newgame.cs" />
+     <Compile Include="Assets\scripts\options.cs" />
+     <Compile Include="Assets\scripts\options2.cs" />
+     <Compile Include="Assets\scripts\pause.cs" />
+     <Compile Include="Assets\scripts\pausemenu.cs" />
+     <Compile Include="Assets\scripts\resume.cs" />
+     <Compile Include="Assets\scripts\select.cs" />
+     <Compile Include="Assets\scripts\upgrademenu.cs" />
+     <None Include="Assets\Standard Assets\Blob-Shadow\ShadowProjection.shader" />
+     <None Include="Assets\Standard Assets\Water\Sources\FX-Water Simple.shader" />
+     <None Include="Assets\Standard Assets\Gem Rendering\diamond shader.shader" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{2523AEB6-2386-7894-D7BB-15209FCFCA43}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{D77BAD1C-AA5C-7BAE-9C4E-C8339D63D0D4}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
